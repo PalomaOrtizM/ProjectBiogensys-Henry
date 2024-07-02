@@ -46,4 +46,5 @@ Based on the analysis, Chile is recommended as the preferred location for establ
 ### Personal Reflection:
 This project has enabled me to apply my data analysis skills to make informed decisions based on multiple variables, which is an essential skill for any data analyst in the healthcare sector. I would have liked to study more about the pharmaceutical industry. As an analyst, I understand the importance of being prepared to handle various scenarios, and I believe that my background has greatly assisted me in making better decisions in this project and will continue to benefit me in the future.
 
-If you've read this far, *THANK YOU!* I will continue improving this project
+
+**If you've read this far, *THANK YOU!* I will continue improving this project and many more are about to come.**
